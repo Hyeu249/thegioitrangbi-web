@@ -1,0 +1,13 @@
+{
+  "sidebar.library": "Thư viện",
+  "sidebar.image": "Hình ảnh",
+  "sidebar.imageLibrary": "Image Library",
+
+  "themeSwitcher.settings": "Thiết lập",
+  "themeSwitcher.Sidebar": "Sidebar",
+  "themeSwitcher.Topbar": "Topbar",
+  "themeSwitcher.Background": "Background",
+  "themeSwitcher.label": "label",
+  "themeSwitcher.purchase": "purchase",
+  "languageSwitcher.label": "label"
+}

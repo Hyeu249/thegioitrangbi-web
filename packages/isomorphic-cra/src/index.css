@@ -1,0 +1,24 @@
+.flex {
+  display: flex;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-evenly {
+  justify-content: space-evenly;
+}
+
+.pointer {
+  cursor: pointer;
+  user-select: none;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}

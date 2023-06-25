@@ -1,0 +1,11 @@
+{
+  "packages": [
+    "shared2/*",
+    "shared/*",
+    "packages/*",
+    "packages/isomorphic-boilerplate-graphql/*"
+  ],
+  "version": "independent",
+  "npmClient": "yarn",
+  "useWorkspaces": true
+}
