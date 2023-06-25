@@ -2,6 +2,11 @@
   display: flex;
 }
 
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
 .justify-center {
   justify-content: center;
 }
@@ -21,4 +26,8 @@
 
 .flex-wrap {
   flex-wrap: wrap;
+}
+
+.block {
+  display: block;
 }

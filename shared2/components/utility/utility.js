@@ -1,7 +1,7 @@
 import React from "react";
 
-function Layer(props) {
-  return <div style={{ ...props }}></div>;
+function Layer({ children, ...props }) {
+  return <div style={{ ...props }}>{children}</div>;
 }
 
 function Center({ children }) {

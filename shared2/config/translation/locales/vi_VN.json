@@ -3,6 +3,12 @@
   "sidebar.image": "Hình ảnh",
   "sidebar.imageLibrary": "Thư viện hình ảnh",
 
+  "topbar.allClothes": "Tất cả",
+  "topbar.top": "Top",
+  "topbar.tshirt": "Áo thun",
+  "topbar.polo": "Áo polo",
+  "topbar.hoodie": "Áo hoodie",
+
   "themeSwitcher.settings": "Thiết lập",
   "themeSwitcher.Sidebar": "Sidebar",
   "themeSwitcher.Topbar": "Topbar",
